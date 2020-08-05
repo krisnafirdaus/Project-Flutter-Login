@@ -1,6 +1,6 @@
 # Login Page 
 
-A new Flutter application.
+This is login and register page with flutter
 
 ## Getting Started
 
